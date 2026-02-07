@@ -1,0 +1,13 @@
+name = "Just Fancy Torches"
+filename = "Just Fancy Torches v2.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uSUkeiw6/versions/iDjrnPbS/Just%20Fancy%20Torches%20v2.0.zip"
+hash-format = "sha512"
+hash = "e510f0a56352df8deda69cac15801467a854ee60bd6938574c6489aa729eb6eda67a69a7e2b58caef6a700d84746873df1664426dd4860ba6afac1581ab1d6c9"
+
+[update]
+[update.modrinth]
+mod-id = "uSUkeiw6"
+version = "iDjrnPbS"

@@ -1,0 +1,13 @@
+name = "Marlow's Crystal Optimizer"
+filename = "Marlow's Crystal Optimizer-1.19.X-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ozpC8eDC/versions/15lbe2jD/Marlow%27s%20Crystal%20Optimizer-1.19.X-1.0.3.jar"
+hash-format = "sha512"
+hash = "5c1c5374e71355345d2f245d726d663b885c5a2d6d4fc8592592cc2f5d652cd63c766c8d928ad9aaec9a257c4d0ddd4b35d12f2686ed938f0d83ddc79c627fb9"
+
+[update]
+[update.modrinth]
+mod-id = "ozpC8eDC"
+version = "15lbe2jD"

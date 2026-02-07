@@ -1,0 +1,13 @@
+name = "3D totem"
+filename = "3D totem pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YUKud9uE/versions/ylrL1rhZ/3D%20totem%20pack.zip"
+hash-format = "sha512"
+hash = "a43c9f7731563259d2f716dc10ecf0e6db9d0b244d348fbd6bf551ca953e42d209c4977b24fe947f5d01645b64fb656e0c6fad29b24bf66670aa2931d8d7177e"
+
+[update]
+[update.modrinth]
+mod-id = "YUKud9uE"
+version = "ylrL1rhZ"

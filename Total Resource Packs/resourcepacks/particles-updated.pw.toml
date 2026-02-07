@@ -1,0 +1,13 @@
+name = "[Particle Effects] Particles Updated"
+filename = "§aParticles Updated 1.21.11 §8(0.6).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/F9wQuVGZ/versions/jCVE0gC5/%C2%A7aParticles%20Updated%201.21.11%20%C2%A78%280.6%29.zip"
+hash-format = "sha512"
+hash = "d861bd20a16f4806a6a0f6d93c43ae445add9aac7786ace8e8cac6de3b4303179a359617f5b2bacc2532efa986174c9d924729d9cc591ca35494c717b4f2ea64"
+
+[update]
+[update.modrinth]
+mod-id = "F9wQuVGZ"
+version = "jCVE0gC5"

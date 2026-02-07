@@ -1,0 +1,13 @@
+name = "Better 3D Beds"
+filename = "Better Beds.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LukwUauE/versions/HDxeMZ79/Better%20Beds.zip"
+hash-format = "sha512"
+hash = "412938e88c5dfdf06807891322bce5eeb0b05e10550e23a6bdb928dcdf209cd92e0d1cd23625f385a95245c447fdd153f8ef77772613c1790db67e9aca1f97ce"
+
+[update]
+[update.modrinth]
+mod-id = "LukwUauE"
+version = "HDxeMZ79"

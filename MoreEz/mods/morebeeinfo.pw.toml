@@ -1,0 +1,13 @@
+name = "MoreBeeInfo"
+filename = "MoreBeeInfo-fabric-1.20.1-1.4.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/N2XKPu4u/versions/qqoeTT7A/MoreBeeInfo-fabric-1.20.1-1.4.1.jar"
+hash-format = "sha512"
+hash = "fde33411d729abcff4a7fa847a2b154a9a9df193dad2493d98df8bc9d00d8d3290f40fee1b9da9ed0e0a1bb991e17bd0f5b9118f2a2a2d7f520e1f19f9c10de6"
+
+[update]
+[update.modrinth]
+mod-id = "N2XKPu4u"
+version = "qqoeTT7A"
